@@ -605,6 +605,7 @@ main.row{
 	border-left: 2px solid #bababa;
 }
 .col .contents .box{
+    border-radius: 30px;
 	position: relative;
 	padding: 20px;
 	border: 1px solid #eaeaea;
