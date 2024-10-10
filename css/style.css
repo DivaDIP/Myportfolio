@@ -536,6 +536,9 @@ span {
     transform: translateY(0);
 }
 
+.portfolio-layer {
+    color: var(--bg-color);
+}
 
 .portfolio-layer h4 {
     font-size: 2rem;
